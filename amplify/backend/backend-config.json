@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactbossapp5ee344d6": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

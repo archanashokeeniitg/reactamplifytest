@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactbossapp-dev-115703-authRole",
+      "UnauthRoleArn": "arn:aws:iam::484625484547:role/amplify-reactbossapp-dev-115703-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::484625484547:role/amplify-reactbossapp-dev-115703-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-reactbossapp-dev-115703-deployment",
+      "UnauthRoleName": "amplify-reactbossapp-dev-115703-unauthRole",
+      "StackName": "amplify-reactbossapp-dev-115703",
+      "StackId": "arn:aws:cloudformation:us-east-2:484625484547:stack/amplify-reactbossapp-dev-115703/209ba130-7eb6-11eb-88ba-0a4bb640a99a",
+      "AmplifyAppId": "d2pqoqrzocwxcl"
+    },
+    "categories": {
+      "auth": {
+        "reactbossapp5ee344d6": {}
+      }
+    }
+  }
+}
